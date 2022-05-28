@@ -1,21 +1,21 @@
 {
-  "name": "WTF: PWA",
-  "short_name": "WTF: PWA",
-  "theme_color": "#2D2241",
-  "background_color": "#2D2241",
+  "name": "Water drinking control",
+  "short_name": "Water",
+  "theme_color": "#3767ad",
+  "background_color": "#3767ad",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/wtf-webpack-starter/",
-  "start_url": "/wtf-webpack-starter/",
+  "scope": "/Water drinking control/",
+  "start_url": "/Water drinking control/",
   "icons": [
     {
-      "src": "pwa/manifest-icon-192.png",
+      "src": "pwa/Water.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable any"
     },
     {
-      "src": "pwa/manifest-icon-512.png",
+      "src": "pwa/Woman_drinking.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable any"
