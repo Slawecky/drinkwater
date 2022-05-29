@@ -1,10 +1,8 @@
 import '../scss/main.scss';
 
 // uncomment the lines below to enable PWA
-// import {registerSW} from './pwa.js';
-// registerSW();
-
-/* place your code below */
+import {registerSW} from './pwa.js';
+registerSW();
 
 const countCounter = document.querySelector('.count_counter--js');
 const buttonAdd = document.querySelector('.button__add--js');
